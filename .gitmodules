@@ -1,0 +1,6 @@
+[submodule "report-tools"]
+	path = report-tools
+	url = https://github.com/P1NH34D/report-tools.git
+[submodule "parent"]
+	path = parent
+	url = https://github.com/P1NH34D/parent.git
